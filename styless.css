@@ -37,5 +37,6 @@ a:active {
   font-size: 30px;
 }
 div.a { text-align: center; }
+img.loading_screen { position: absolute; left: 0; right: 0; height: 100%; width: 100%; }
 </style>
 
