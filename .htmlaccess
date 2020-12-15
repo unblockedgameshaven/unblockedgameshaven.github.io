@@ -1,3 +1,5 @@
+# 301 redirect starts here
+edirectPermanent / https://unblockedhaven.tk/
 # html removal starts here
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
