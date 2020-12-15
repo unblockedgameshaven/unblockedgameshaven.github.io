@@ -7,7 +7,6 @@ p {
 body {
   background-color: green;
 }
-img.loading_screen { position: absolute; left: 0; right: 0; height: 100%; width: 100%; }
 <style>
 a:link {
   color: green;
