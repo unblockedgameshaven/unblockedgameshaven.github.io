@@ -1,11 +1,11 @@
 h1 {
-  color: red;
+  color: black;
 }
 p {
   color: white;
 }
 body {
-  background-color: green;
+  background-color: #d5f6f7;
 }
 <style>
 a:link {
@@ -14,7 +14,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color: pink;
+  color: orange;
   background-color: transparent;
   text-decoration: none;
 }
@@ -32,13 +32,13 @@ a:active {
 .header {
   padding: 60px;
   text-align: center;
-  background: yellow;
+  background: #d5f6f7;
   color: white;
   font-size: 30px;
 }
 div.a { text-align: center; }
 .button {
-  background-color: red; /* Green */
+  background-color: #d5f6f7; /* Green */
   border: none;
   color: white;
   padding: 20px;
