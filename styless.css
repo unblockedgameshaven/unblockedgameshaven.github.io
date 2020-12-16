@@ -82,7 +82,7 @@ div.a { text-align: center; }
   color: #FFFFFF;
   text-align: center;
   font-size: 28px;
-  padding: 20px;
+  padding: 10px 24px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
